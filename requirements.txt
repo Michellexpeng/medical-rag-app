@@ -1,0 +1,5 @@
+raganything==1.2.8
+sentence-transformers>=2.7.0
+python-dotenv>=1.0.1
+tqdm>=4.66.0
+rich>=13.7.0

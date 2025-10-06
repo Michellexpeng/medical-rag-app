@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/
+*.pdf
+working_dir/
+rag_storage/
+indexes/
+vector_store/
+logs/
+*.log
+.ipynb_checkpoints/
